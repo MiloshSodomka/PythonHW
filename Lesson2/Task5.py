@@ -10,7 +10,7 @@ def month_to_season(month):
     else:
         return "Некорректный номер"
 
-    print (month_to_season(12))
-    print (month_to_season(5))
-    print (month_to_season(7))
-    print (month_to_season(9))
+print (month_to_season(12))
+print (month_to_season(5))
+print (month_to_season(7))
+print (month_to_season(9))

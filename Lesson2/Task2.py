@@ -3,7 +3,6 @@ def is_year_leap(year):
         return True
     else:
         return False
-
 year = 2020
 result = is_year_leap(year)
 
